@@ -1,0 +1,40 @@
+.search-container {
+text-align: center;
+margin-bottom: 20px;
+background-color: white;
+height: 50px;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+padding: 10px;
+z-index: 999
+}
+
+#news-results {
+margin-top: 20px;
+}
+body{
+  background-color: black;
+  color: #fff;
+}
+input, button{
+  margin-top: 1%;
+  padding: 10px;
+}
+button{
+  background-color: red;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  padding: 12px;
+}
+input{
+  outline: none;
+  border-radius: 3px;
+  border: 2px solid lightgray;
+  padding: 11px;
+}
+h4{
+  margin-top: 25%
+  }
